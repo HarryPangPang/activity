@@ -1,0 +1,254 @@
+.index-content{
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  position: relative;
+.bag-title{
+  background-image: url(./images/banner@2x.png);
+  background-repeat: no-repeat;
+  height: 18.2rem;
+  width: 100%;
+  background-size: 100% 100%;
+}
+  .bag-content{
+    margin-left: 2rem;
+  }
+  .receive-button{
+    height: 2.5rem;
+    width: 14.75rem;
+    background-color: #C9CAE8;;
+    font-size: 0.8rem;
+    color: #fff;
+    box-shadow: 0 6px 7px 1px #D9DBFF;
+    border-radius: 6px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 2.5rem;
+    font-family: PingFangSC-Medium;
+    border: none;
+    display: block;
+  }
+  .receive-button-on{
+    background: #8C90DB;
+  }
+  .user-photo{
+    width: 2rem;
+    float: left;
+    border-radius: 50%;
+  }
+  .user-name{
+    font-family: PingFangSC-Semibold;
+    font-size: 0.65rem;
+    line-height: 0.6rem;
+    color: #FF6180 ;
+    margin-bottom: 0.45rem;
+  }
+  .user-text{
+    font-family: PingFangSC-Regular;
+    font-size: 0.65rem;
+    color: #656C88;
+    line-height:  0.65rem;
+    margin-bottom:0.25rem;
+    strong{
+      color:#FF6180  ;
+    }
+  }
+  .user-info{
+    margin:0.5rem 0 0.5rem 2.95rem;
+  }
+  .invite-button{
+    background: #FF6180;
+    box-shadow: 0 14px 19px 0 #FCB0C5;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .reveive-record{
+    color: #8C90DB;
+    font-size: 0.65rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    a{
+      text-decoration: underline;
+    }
+  }
+  .help-content{
+  display: block;
+  }
+  .helpu-text{
+    font-family: PingFangSC-Medium;
+    color: #656C88;
+    font-size: 0.65rem;
+    margin-left: 5.6rem;
+    font-weight: bold;
+  }
+  .helpu-none{
+    font-family: PingFangSC-Regular;
+    font-size: 0.6rem;
+    color: #656C88;
+    text-align: center;
+    margin: 2rem 0 2rem 0;
+  }
+  .rule-line-left{
+    width: 3rem;
+    float: left;
+    margin-left: 1.9rem;
+    border-top: 0.05rem solid #AFB3BE;
+    margin-top: 0.3rem;
+  }
+  .rule-line-right{
+    width: 3rem;
+    border-top: 0.05rem solid #AFB3BE;
+    float: right;
+    margin-top: -.5rem;
+    margin-right: 1.9rem;
+  }
+  .right2{
+    margin-right: 2.575rem;
+    width: 3.5rem;
+  }
+  .left2{
+    margin-left: 2.575rem;
+    width: 3.5rem;
+  }
+  
+  .rule-content{
+    font-family: PingFangSC-Regular;
+    font-size: 0.65rem;
+    color: #656C88;
+    position: relative;
+    padding: 1rem 2rem 1.6rem 2rem;
+    .number-left{
+      float: left;
+    }
+    .text-block{
+      margin-left: 0.7rem;
+      margin-bottom: 0.2rem;
+    }
+  }
+  .img-light1{
+    position: absolute;
+    left: 2.875rem;
+    width: 2.3rem;
+    top: 7.2rem;
+  }
+  .img-light2{
+    position: absolute;
+    left: 5.4rem;
+    width: 2.3rem;
+    top: 8.9rem;
+  }
+  .img-light3{
+    position: absolute;
+    left: 8.6rem;
+    width: 2.3rem;
+    top: 7.6rem;
+  }
+  .img-light4{
+    position: absolute;
+    left: 11.65rem;
+    width: 2.3rem;
+    top: 6.5rem;
+  }
+  .img-light5{
+    position: absolute;
+    left: 15rem;
+    width: 2.3rem;
+    top: 7.7rem;
+  }
+  .img-photo1{
+    position: absolute;
+    left: 2rem;
+    width: 3.8rem;
+    top: 6rem;
+  }
+  .img-photo2{
+    position: absolute;
+    left: 4.8rem;
+    width: 3.8rem;
+    top: 7.3rem;
+  }
+  .img-photo3{
+    position: absolute;
+    left: 8rem;
+    width: 3.8rem;
+    top: 6.1rem;
+  }
+  .img-photo4{
+    position: absolute;
+    left: 10.9rem;
+    width: 3.8rem;
+    top: 5.4rem;
+  }
+  .img-photo5{
+    position: absolute;
+    left: 14.5rem;
+    width: 3.8rem;
+    top: 6.5rem;
+  }
+  .img-users1{
+    width: 2rem;
+    border-radius: 50%;
+    position: absolute;
+    left: 2.9rem;
+    top: 6.63rem;
+  }
+  .img-users2{
+    width: 2rem;
+    border-radius: 50%;
+    position: absolute;
+    left: 5.7rem;
+    top: 7.95rem;
+  }
+  .img-users3{
+    width: 2rem;
+    border-radius: 50%;
+    position: absolute;
+    left: 8.9rem;
+    top: 6.75rem;
+  }
+  .img-users4{
+    width: 2rem;
+    border-radius: 50%;
+    position: absolute;
+    left: 11.8rem;
+    top: 6rem; 
+  }
+  .img-users5{
+    width: 2rem;
+    border-radius: 50%;
+    position: absolute;
+    left: 15.45rem;
+    top: 7.1rem;
+  }
+  .friend-content{
+    margin-left: 2rem;
+    //margin-bottom: 1rem;
+    .friend-info{
+      margin:0.5rem 0 0.5rem 2.4rem;
+      font-size: 0.6rem;
+      position: relative;
+    }
+    .user-photo{
+      width: 1.6rem;
+      height: 1.6rem
+    }
+
+  }
+  .add-one{
+    font-family: OpenSans-Semibold;
+    font-size: 0.8rem;
+    color: #FF6180;
+    right: 2rem;
+    position: absolute;
+    top: 50%;
+    margin-top: -0.4rem;
+  }
+ .line-heigh15{
+  line-height: 1.5rem;
+}
+  .ic-scroll {
+    width: 100%;
+    height: 100%;
+  }
+
+}
